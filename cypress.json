@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://frame.io",  
+    "ignoreTestFiles": "**/examples/*",  
+    "viewportHeight": 967, 
+    "viewportWidth": 1526,
+    "testFiles": "**/*.feature"
+}
